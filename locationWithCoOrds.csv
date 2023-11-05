@@ -1,0 +1,57 @@
+location_id,location,country_code,latitude,longitude,country
+0,United Kingdom,GB,55.378051,-3.435973,United Kingdom
+1,Turkey,TR,38.963745,35.243322,Turkey
+2,Croatia,HR,45.1,15.2,Croatia
+3,Serbia,RS,44.016521,21.005859,Serbia
+4,Italy,IT,41.87194,12.56738,Italy
+5,United States,US,37.09024,-95.712891,United States
+6,Switzerland,CH,46.818188,8.227512,Switzerland
+7,France,FR,46.227638,2.213749,France
+8,Bahamas,BS,25.03428,-77.39628,Bahamas
+9,Russia,RU,61.52401,105.318756,Russia
+10,Kazakhstan,KZ,48.019573,66.923684,Kazakhstan
+11,Norway,NO,60.472024,8.468946,Norway
+12,Japan,JP,36.204824,138.252924,Japan
+13,Portugal,PT,39.399872,-8.224454,Portugal
+14,Egypt,EG,26.820553,30.802498,Egypt
+15,South Africa,ZA,-30.559482,22.937506,South Africa
+16,Netherlands,NL,52.132633,5.291266,Netherlands
+17,Mexico,MX,23.634501,-102.552784,Mexico
+18,Jamaica,JM,18.109581,-77.297508,Jamaica
+19,Lebanon,LB,33.854721,35.862285,Lebanon
+20,Thailand,TH,15.870032,100.992541,Thailand
+21,Austria,AT,47.516231,14.550072,Austria
+22,Brazil,BR,-14.235004,-51.92528,Brazil
+23,Spain,ES,40.463667,-3.74922,Spain
+24,Greece,GR,39.074208,21.824312,Greece
+25,Albania,AL,41.153332,20.168331,Albania
+26,India,IN,20.593684,78.96288,India
+27,Germany,DE,51.165691,10.451526,Germany
+28,Gibraltar,GI,36.137741,-5.345374,Gibraltar
+29,Slovakia,SK,48.669026,19.699024,Slovakia
+30,Morocco,MA,31.791702,-7.09262,Morocco
+31,Afghanistan,AF,33.93911,67.709953,Afghanistan
+32,Pakistan,PK,30.375321,69.345116,Pakistan
+33,Monaco,MC,43.750298,7.412841,Monaco
+35,Cuba,CU,21.521757,-77.781167,Cuba
+36,Vietnam,VN,14.058324,108.277199,Vietnam
+38,Azerbaijan,AZ,40.143105,47.576927,Azerbaijan
+39,North Korea,KP,40.339852,127.510093,North Korea
+40,South Korea,KR,35.907757,127.766922,South Korea
+41,Hong Kong,HK,22.396428,114.109497,Hong Kong
+43,Iceland,IS,64.963051,-19.020835,Iceland
+44,Czech Republic,CZ,49.817492,15.472962,Czech Republic
+45,Uganda,UG,1.373333,32.290275,Uganda
+46,Madagascar,MG,-18.766947,46.869107,Madagascar
+47,Montenegro,ME,42.708678,19.37439,Montenegro
+48,Haiti,HT,18.971187,-72.285215,Haiti
+49,Bolivia,BO,-16.290154,-63.588653,Bolivia
+50,China,CN,35.86166,104.195397,China
+51,Macau,MO,22.198745,113.543873,Macau
+52,Vatican City,VA,41.902916,12.453389,Vatican City
+53,Canada,CA,56.130366,-106.346771,Canada
+54,Malta,MT,35.937496,14.375416,Malta
+55,Guatemala,GT,15.783471,-90.230759,Guatemala
+56,Puerto Rico,PR,18.220833,-66.590149,Puerto Rico
+58,Panama,PA,8.537981,-80.782127,Panama
+59,Chile,CL,-35.675147,-71.542969,Chile
